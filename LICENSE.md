@@ -4,7 +4,7 @@ This software is provided with the hope that it will be a useful tool for access
 
 MIT License
 
-Copyright (c) [Year] [Full Name of Copyright Holder]
+Copyright (c) [2025] [Faysal abdiwali yusuf]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
