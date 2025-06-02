@@ -37,6 +37,7 @@ Below is a list of features planned for QuranApp, categorized by their priority 
 **Translation & Tafsir:**
 
 - Multiple Translations [HIGH PRIORITY] ❌
+- English Translation for Ayahs [MEDIUM PRIORITY] ✅
 - Side-by-Side Translation [MEDIUM PRIORITY] ❌
 - Tafsir (Exegesis) [MEDIUM PRIORITY] ❌
 - Word-by-Word Translation [MEDIUM PRIORITY] ❌
